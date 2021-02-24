@@ -1,5 +1,3 @@
-package Lab9;
-
 public class DisjointSetForest implements DisjointSetDataStructure {
 
 	private class Element {
