@@ -1,6 +1,3 @@
-package Lab9;
-
-
 public class DisjointSetLinkedList implements DisjointSetDataStructure {
 
 	private class Element{
